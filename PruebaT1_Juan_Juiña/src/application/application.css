@@ -1,0 +1,19 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.pie {
+	-fx-background-color:  #f2b90f;
+}
+.jfx-button:hover {
+	-fx-background-color: red;
+}
+.jfx-button{
+	-fx-background-color:  #f2b90f;
+}
+
+
+.imagenFondo{
+	-fx-background-image: url("../view/assets/sky.jpeg");
+	-fx-background-size: 100%;
+	-fx-background-repeat: no-repeat;
+	
+}
